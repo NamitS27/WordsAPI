@@ -47,7 +47,7 @@ if __name__=="__main__":
     You can download the specific chrome driver wrt to the versin of the chrome from here > https://chromedriver.chromium.org/downloads
     '''
     options = webdriver.ChromeOptions()
-    chrome_driver_binary = "chromedriver.exe"
+    chrome_driver_binary = "chromedriver.exe" # change the path of the chrome driver (ignore if in the same folder)
     driver = webdriver.Chrome(chrome_driver_binary)
 
     # opening the url in chrome
