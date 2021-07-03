@@ -6,7 +6,7 @@ This project helps in fetching the meaning of the word using famous Words API by
 
 ### Prequisites
 
--   Download & install chrome web browser. Clich [here](https://www.google.com/chrome/) to download.
+-   Download & install chrome web browser. Click [here](https://www.google.com/chrome/) to download.
 -   Download chrome driver wrt to the version of the chrome installed in your system. Click [here](https://chromedriver.chromium.org/downloads) to download.
 
 > **Note**: You can use any web browser. For changing the web browser, see [here](https://www.selenium.dev/documentation/en/webdriver/).
